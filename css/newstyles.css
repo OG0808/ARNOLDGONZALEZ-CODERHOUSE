@@ -19,6 +19,12 @@ body {
   background-size: cover;
   background-repeat: no-repeat; }
 
+.main-container-artistas {
+  background-image: url(../imagenes/imagengif.gif); }
+
+.main-container-multimedias {
+  background-image: url(../imagenes/imagengif.gif); }
+
 /*fondo de los html gif animado*/
 .boton {
   box-shadow: 3px 3px 0px black; }
